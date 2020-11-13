@@ -6,8 +6,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
-title = "Providers"
-subtitle = "Some providers that are using the LEAP Platform to provide VPN service"
+title = "Choose your VPN provider"
+subtitle = "Using a VPN requires people to place their trust in both the software and service provider that they choose. We only partner with trusted service providers who have a record of protecting their user's privacy." 
 
 # Add/remove as many `[[feature]]` blocks below as you like.
 
