@@ -10,8 +10,7 @@ title = "LEAP VPN"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 
-hero_media = "hero-academic.png"
-
+hero_media = "hero-image.png"
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
@@ -22,15 +21,15 @@ hero_media = "hero-academic.png"
   color = "#EAF4F9"
   
   # Background gradient.
-  #gradient_start = "#4bb4e3"
-  #gradient_end = "#2b94c3"
+  # gradient_start = "#4bb4e3"
+  # gradient_end = "#2b94c3"
   
   # Background image.
-  #image = "vpn-on.svg"  # Name of image in `static/img/`.
+  # image = "vpn-on.svg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
-  image_position = "right"  # Options include `left`, `center` (default), or `right`.
-  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  # image_size = "contain"  #  Options are `cover` (default), `contain`, or `actual` size.
+  # image_position = "right"  # Options include `left`, `center` (default), or `right`.
+  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
   text_color_light = false
@@ -54,8 +53,7 @@ hero_media = "hero-academic.png"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**We built a simple, easy-to-use VPN. We work with trusted service providers to build and brand their VPN service.**
-
+We built a simple, easy-to-use VPN. We work with trusted service providers to build and brand their VPN service.
 All aspects of LEAP's VPN, the server side and the application, are 100% open source and available on Android, Windows, Mac and Linux. All our partners provide free to use, donation-based VPN.
 
 <span style="text-shadow: none;"><a class="github-button" href="https://github.com/leapcode/bitmask_android" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
