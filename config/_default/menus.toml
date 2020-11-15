@@ -4,11 +4,6 @@
 #   The weight parameter defines the order that the links will appear in.
 #
 [[main]]
-  name = "LEAP VPN"
-  url = "#hero"
-  weight = 20
-
-[[main]]
   name = "News"
   url = "#posts"
   weight = 50
@@ -17,6 +12,12 @@
   name = "Contact"
   url = "#contact"
   weight = 60
+
+[[main]]
+  name = "About Us"
+  url = "about"
+  weight = 70
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
