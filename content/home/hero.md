@@ -56,6 +56,4 @@ hero_media = "hero-image.png"
 We built a simple, easy-to-use VPN. We work with trusted service providers to build and brand their VPN service.
 All aspects of LEAP's VPN, the server side and the application, are 100% open source and available on Android, Windows, Mac and Linux. All our partners provide free to use, donation-based VPN.
 
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/leapcode/bitmask_android" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
-<span style="text-shadow: none;"><a class="github-button" href="https://github.com/leapcode/bitmask-vpn" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star on GitHub">Star</a><script async defer src="https://buttons.github.io/buttons.js"></script></span>
 
