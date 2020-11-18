@@ -69,7 +69,7 @@
   {{ $i18n = "more_pages" }}
 {{ end }}
 
-<div class="row">
+<div class="row col-10 offset-1">
   <div class="col-12 col-lg-4 section-heading">
     <h1>{{ with $st.Title }}{{ . | markdownify | emojify }}{{ end }}</h1>
     {{ with $st.Params.subtitle }}<p>{{ . | markdownify | emojify }}</p>{{ end }}

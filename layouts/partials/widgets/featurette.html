@@ -1,16 +1,16 @@
 {{ $ := .root }}
 {{ $page := .page }}
 
-<div class="row featurette">
+<div class="row featurette col-10 offset-1">
   {{ with $page.Title }}
-  <div class="col-md-12 section-heading">
+  <div class="col-12 section-heading">
     <h1>{{ . | markdownify | emojify }}</h1>
     {{ if $page.Params.subtitle }}<p>{{ $page.Params.subtitle | markdownify | emojify }}</p>{{ end }}
   </div>
   {{ end }}
 
   {{ with $page.Content }}
-  <div class="col-md-12">
+  <div class="col-12">
     {{ . }}
   </div>
   {{ end }}

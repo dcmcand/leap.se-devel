@@ -30,7 +30,7 @@ subtitle = "Using a VPN requires people to place their trust in both the softwar
   icon_pack = "custom"
   url = "https://github.com"
   name = "LibraryVPN"
-  description = "We are developing LibraryVPN for use by libraries and their patrons! We are working with the Lebanon and Westchester Library Systems to pilot this project. Go to LibraryVPN"
+  description = "We are developing LibraryVPN for use by libraries and their patrons! We are currently working with the Lebanon and Westchester Library Systems to pilot this project. If you are interested in helping with the develpment of LibraryVPN, please reach out to the LibraryVPN project. Go to LibraryVPN"
 
 # Uncomment to use custom SVG icons.
 # Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
