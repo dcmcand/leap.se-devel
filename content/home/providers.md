@@ -15,20 +15,20 @@ subtitle = "Using a VPN requires people to place their trust in both the softwar
   icon = "bitmask"
   icon_pack = "custom"
   name = "Bitmask"
-  url = "https://github.com"
+  url = "https://bitmask.net"
   description = "This is LEAP’s very own VPN client, available on the Android platform. Bitmask allows you to select from a variety of trusted service provider all from one app. Current providers include Riseup.net and The Calyx Institute. Get Bitmask"
   
 [[feature]]
   icon = "riseup"
   icon_pack = "custom"
   name = "RiseUp"
-  url = "https://github.com"
+  url = "https://riseup.net"
   description = "Riseup offers Personal VPN service for censorship circumvention, location anonymization and traffic encryption. To make this possible, it sends all your internet traffic through an encrypted connection to riseup.net, where it then goes out onto the public internet. Unlike most other VPN providers, Riseup does not log your IP address.  Get RiseupVPN "
   
 [[feature]]
   icon = "libraryvpn"
   icon_pack = "custom"
-  url = "https://github.com"
+  url = "https://libraryvpn.org"
   name = "LibraryVPN"
   description = "We are developing LibraryVPN for use by libraries and their patrons! We are currently working with the Lebanon and Westchester Library Systems to pilot this project. If you are interested in helping with the develpment of LibraryVPN, please reach out to the LibraryVPN project. Go to LibraryVPN"
 
