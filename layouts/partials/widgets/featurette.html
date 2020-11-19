@@ -38,7 +38,7 @@
     {{ end }}
     <div class="col-sm-8 mt-3 text-left">
     <h3>{{ .name | markdownify | emojify }}</h3>
-    <a href="{{ .url }}" target="_blank">{{ .url }}</a>
+    <a href="{{ .url }}" target="_blank">{{ .linktext }}</a>
     {{ with .description }}<p>{{ . | markdownify | emojify }}</p>{{ end }}
     </div>
   </div>
