@@ -1,0 +1,73 @@
+---
+title: Donate
+date: "2020-11-19T00:00:00+01:00"
+type: page
+draft: false
+share: false
+commentable: false
+editable: false
+header:
+  caption: ""
+  image: ""
+---
+
+LEAP depends on donations and grants to keep doing the work we do. Please donate today if you value secure communication that is easy for both the end-user and the service provider.
+
+LEAP is a non-profit incorporated in Washington State, USA. However, you contributions are not tax deductable.
+
+## By Mail
+
+>  LEAP Encryption Access Project
+>
+>  PO Box 4422
+>
+>  Seattle, WA 98194-0422 USA
+
+## Bitcoin
+
+> 1Fze6GLjoxFnwAGNreYLK8ktFdGJdPRxeY
+
+## Paypal
+
+  Recurring Donation<br>
+  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" style="margin:0">
+    <input type="hidden" name="cmd" value="_xclick-subscriptions">
+    <input type="hidden" name="t3" value="M">
+    <input type="hidden" name="src" value="1">
+    <input type="hidden" name="sra" value="1">
+    <input type="hidden" name="no_note" value="1">
+    <input type="hidden" name="modify" value="1">
+    <input type="hidden" name="business" value="JPSDB662ZEMJY">
+    <input type="hidden" name="item_name" value="LEAP donation">
+    <div class="donation">
+      <select name="currency_code" style="width: 8em">
+        <option value="USD">USD $</option>
+        <option value="CAD">CAD $</option>
+        <option value="GBP">GBP £</option>
+        <option value="EUR">EUR €</option>
+      </select>
+      <input type="input" name="a3" value="10" size="6" style="width: 8em">
+      <select name="p3" style="width: 8em">
+        <option value="1">Monthly</option>
+        <option value="3">Quarterly</option>
+      </select>
+      <input type="submit" name="submit" value="Subscribe">
+    </div>
+  </form>
+  One Time Donation<br>
+  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+    <input type="hidden" name="cmd" value="_donations">
+    <input type="hidden" name="item_name" value="LEAP donation">
+    <input type="hidden" name="business" value="JPSDB662ZEMJY">
+    <div class="donation">
+      <select name="currency_code" style="width: 8em">
+        <option value="USD">USD $</option>
+        <option value="CAD">CAD $</option>
+        <option value="GBP">GBP £</option>
+        <option value="EUR">EUR €</option>
+      </select>
+      <input type="input" name="amount" value="25" size="6" style="width: 8em">
+      <input type="submit" name="submit" value="Donate">
+    </div>
+  </form>
+
