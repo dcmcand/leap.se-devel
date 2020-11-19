@@ -55,6 +55,6 @@ hero_media = "hero-image.png"
 +++
 
 We built a simple, easy-to-use VPN. We work with trusted service providers to build and brand their VPN service.
-All aspects of LEAP's VPN, the server side and the application, are 100% open source and available on Android, Windows, Mac and Linux. All our partners provide free to use, donation-based VPN.
+All aspects of LEAP's VPN, the server side and the application, are 100% open source and available on Android, Windows, Mac and Linux. All our partners provide free to use or donation-based VPN.
 
 
